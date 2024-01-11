@@ -1,6 +1,6 @@
 # Minimalist Retail Management System
 
-Welcome to the Minimalist Retail Management System repository! This project, developed for a school mini-project, provides a simple and efficient GUI-based solution using Python and tkinter. Feel free to explore the code and contribute to enhancing its quality.
+Welcome to the Minimalist Retail Management System repository! Originally developed for a school mini-project, this project has evolved into a sleek and efficient GUI-based solution using Python, Tkinter, and SQLite database. Whether you're exploring the code or looking to contribute and enhance its capabilities, you've come to the right place.
 
 ## Features
 
@@ -19,7 +19,7 @@ Follow these steps to get started with the Minimalist Retail Store Management Sy
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/retail-management-system.git
+git clone https://github.com/CodeWizardl/Retail-Management-System.git
 ```
 
 ### 2. Open the Project
@@ -27,7 +27,7 @@ git clone https://github.com/your-username/retail-management-system.git
 Navigate to the project directory:
 
 ```bash
-cd retail-management-system
+cd Retail-Management-System
 ```
 
 ### 3. Run the Application
@@ -52,16 +52,16 @@ This command will start the application, and you can access it through your pref
 
 ## Screenshots
 
-![Main Screen](https://github.com/realmacaw/real-mart/blob/master/images/main.png)
+![Main Screen](https://github.com/CodeWizardl/Retail-Management-System/assets/142290678/eba9f6bb-9158-402b-a277-7ec0a818cf11)
 *The main screen of the Retail Management System.*
 
-![Employee Login](https://github.com/realmacaw/real-mart/blob/master/images/employee_login.png)
+![Employee Login](https://github.com/CodeWizardl/Retail-Management-System/assets/142290678/66f25743-37a4-4ba5-8c5c-66dc461e8d99)
 *Secure employee login for access control.*
 
-![Bill Window](https://github.com/realmacaw/real-mart/blob/master/images/bill_window.png)
+![Bill Window](https://github.com/CodeWizardl/Retail-Management-System/assets/142290678/134071a2-7a6b-433c-ae3f-f3969ee0b2eb)
 *Efficient billing window for quick and accurate transactions.*
 
-![Update Employee](https://github.com/realmacaw/real-mart/blob/master/images/update_employee.png)
+![Update Employee](https://github.com/CodeWizardl/Retail-Management-System/assets/142290678/4055ab26-bf59-4221-ad37-0b602419ac89)
 *Simple employee details update interface.*
 
 ## Acknowledgments
